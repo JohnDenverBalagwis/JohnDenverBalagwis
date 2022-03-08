@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning C, C#, Python, C++ and HTML,CSS,Javascipt and Php.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnDenverBalagwis)](https://github.com/JohnDenverBalagwis/github-readme-stats)
 
 <!---
 JohnDenverBalagwis/JohnDenverBalagwis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
