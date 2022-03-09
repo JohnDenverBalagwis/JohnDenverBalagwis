@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-
+![JohnDenverBalagwis s GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnDenverBalagwis&show_icons=true&theme=radical)
 
 
 [![JohnDenverBalagwis GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnDenverBalagwis)](https://github.com/JohnDenverBalagwis/github-readme-stats)
