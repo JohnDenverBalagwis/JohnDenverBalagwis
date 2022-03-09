@@ -6,7 +6,6 @@
 - 📫 How to reach me ...
 
 ![JohnDenverBalagwis s GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnDenverBalagwis&show_icons=true&theme=radical)
-![JohnDenverBalagwis s GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnDenverBalagwis&show_icons=true&theme=gradient)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnDenverBalagwis)](https://github.com/JohnDenverBalagwis/github-readme-stats)
 
