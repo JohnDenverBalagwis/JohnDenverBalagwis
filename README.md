@@ -3,7 +3,7 @@
 - 👀 I’m interested in Prgramming...
 - 🌱 I’m currently learning C, C#, Python, C++ and HTML,CSS,Javascipt and Php.
 <!-- Markdown approach -->
-![](https://wallpapers.com/images/high/one-punch-man-saitama-079a7bt0mwx34p9o.jpg)
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYU4Ck3EgqMQdVjVFjF_HBRcqu1s1lFxaJSQ&usqp=CAU)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![JohnDenverBalagwis s GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnDenverBalagwis&show_icons=true&theme=radical)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
