@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JohnDenverBalagwis
 - I am an IT Student
 - 👀 I’m interested in Prgramming...
-- 🌱 I’m currently learning C, C#, Python, C++ and HTML,CSS,Javascipt and Php.
+- 🌱 I’m currently learning C, C#, Python, C++ ,HTML, CSS, Javascipt and Php.
 <!-- Markdown approach -->
 ![](https://i0.wp.com/i.imgur.com/V8USG6e.jpg)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
