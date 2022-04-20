@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @JohnDenverBalagwis
-- I am an IT Student
-- 👀 I’m interested in Prgramming...
-- 🌱 I’m currently learning C, C#, Python, C++ ,HTML, CSS, Javascipt and Php.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=4FD2BB&lines=Hello%2C+My+name+is+John+Denver)](https://git.io/typing-svg)
 <!-- Markdown approach -->
 ![](https://i0.wp.com/i.imgur.com/V8USG6e.jpg)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
