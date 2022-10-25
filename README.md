@@ -11,11 +11,8 @@
 <h3 align="center">I am currently taking BSIT at Marinduque State College.</h3>
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=imbajhey&cover_image=true&theme=default&show_offline=false&bar_color=53b14f&bar_color_cover=true" /></div>  
-
-
 <br/>  
-  <br/>
+<br/>
   
 - 🔭 I’m currently learning Front-end Web Development  
   
@@ -23,8 +20,12 @@
 - 🌱 I’m currently learning Java  
   
 
-- ⚡ Fun fact: I'm a huge fan of anime and manga  
-  
+- ⚡ Fun fact: I love watching anime and listening to music.
+  <br/>
+  <br/>
+## Music
+  <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=imbajhey&cover_image=true&theme=default&show_offline=false&bar_color=53b14f&bar_color_cover=true" /></div>  
+
 
 <br/>  
 
