@@ -5,7 +5,8 @@
 <h3 align="center">An IT student at Marinduque State College</h3>
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=imbajhey&cover_image=true&theme=default&show_offline=false&bar_color_cover=false" /></div>  
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=imbajhey&cover_image=true&theme=karaoke&show_offline=false" /></div>  
+
 
 <br/>  
   <br/>
