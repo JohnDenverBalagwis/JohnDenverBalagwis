@@ -1,5 +1,10 @@
-<div align="left">
-<img src="https://komarev.com/ghpvc/?username=JohnDenverBalagwis&&style=flat-square"  />
+ 
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=JohnDenverBalagwis&color=0E9C47&style=for-the-badge">
+  
+  <br/>  
+  <br/>
+  
 </div>  
 <h1 align="center">Hi 👋, I'm John Denver</h1>
 <h3 align="center">An IT student at Marinduque State College</h3>
