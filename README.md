@@ -5,9 +5,10 @@
   <br/>  
   <br/>
   
-</div>  
-<h1 align="center">Hi 👋, I'm John Denver</h1>
-<h3 align="center">An IT student at Marinduque State College</h3>
+
+<!-- <h1 align="center">Hi 👋, I'm John Denver</h1> -->
+<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=40&pause=1000&color=2EF525&center=true&width=600&height=100&lines=I'm+John+Denver+Balagwis;I'm+24+years+old;I+am+from+Santa+Cruz" alt="Typing SVG" /></a></div>
+<h3 align="center">I am currently taking BSIT at Marinduque State College.</h3>
 <br/>  
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=imbajhey&cover_image=true&theme=default&show_offline=false&bar_color=53b14f&bar_color_cover=true" /></div>  
@@ -28,7 +29,7 @@
 <br/>  
 
 
-### My Skill Set  
+## My Skill Set:
 <table><tr><td valign="top" width="33%">
 
 
@@ -71,7 +72,7 @@
 <br/>  
 
 
-### Connect with me  
+## Connect with me:  
 <div align="center">
 <a href="https://github.com/JohnDenverBalagwis" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -98,14 +99,14 @@
   
 <br/>  
 <br/>  
+<br/>  
 
-### GitHub Highlights: 🔥
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnDenverBalagwis&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
 ![JohnDenverBalagwis s GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnDenverBalagwis&show_icons=true&theme=material-palenight)
 
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=johndenverbalagwis&theme=material-palenight" alt="johndenverbalagwis" />
-
 
 
 
