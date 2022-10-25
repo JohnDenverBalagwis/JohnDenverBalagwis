@@ -28,7 +28,7 @@
 <br/>  
 
 
-## My Skill Set  
+### My Skill Set  
 <table><tr><td valign="top" width="33%">
 
 
@@ -71,7 +71,7 @@
 <br/>  
 
 
-## Connect with me  
+### Connect with me  
 <div align="center">
 <a href="https://github.com/JohnDenverBalagwis" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -98,14 +98,14 @@
   
 <br/>  
 <br/>  
-<br/>  
 
-
+### GitHub Highlights: 🔥
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnDenverBalagwis&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
 ![JohnDenverBalagwis s GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnDenverBalagwis&show_icons=true&theme=material-palenight)
 
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=johndenverbalagwis&theme=material-palenight" alt="johndenverbalagwis" />
+
 
 
 
