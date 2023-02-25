@@ -7,7 +7,7 @@
   
 
 <!-- <h1 align="center">Hi 👋, I'm John Denver</h1> -->
-<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=40&pause=1000&color=2EF525&center=true&width=600&height=100&lines=I'm+John+Denver+Balagwis;I'm+24+years+old;I+am+from+Santa+Cruz" alt="Typing SVG" /></a></div>
+<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=40&pause=1000&color=2EF525&center=true&width=600&height=100&lines=I'm+John+Denver+Balagwis;Student;I+am+from+Santa+Cruz" alt="Typing SVG" /></a></div>
 <h3 align="center">I am currently taking BSIT at Marinduque State College.</h3>
 
 <br/>  
