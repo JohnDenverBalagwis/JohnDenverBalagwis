@@ -16,7 +16,7 @@
 - 🔭 I’m currently learning Front-end Web Development  
   
 
-- 🌱 I’m currently learning Java  
+- 🌱 I’m currently learning Reactjs 
   
 
 - ⚡ Fun fact: I love watching anime and listening to music.
