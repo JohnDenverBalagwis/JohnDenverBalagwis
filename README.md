@@ -1,9 +1,9 @@
 
 
 <div align="left">
-  <br>
 <img src="https://komarev.com/ghpvc/?username=JohnDenverBalagwis&&style=flat-square" align="center" />
 </div>  
+  <br>
 <div align="center">
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmdtaHk5eDc5aTA5YWN5ZXVvY2VhemJtdWM1ZDBtbzBmcmludnYxbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.webp" align="center" style="width: 300px" />
 </div>  
