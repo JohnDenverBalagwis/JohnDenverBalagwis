@@ -9,9 +9,8 @@
 </div>  
   
 
-### <div align="center">Hi 👋 I'm John Denver Balagwis, an aspiring software developer.</div>  
-  
-
+### <h1 align="center">Hi 👋, I'm John Denver Balagwis</h1>
+### <h3 align="center">An aspring software developer from Marinduque</h3>
 # 💫 About Me:
 - 🔭 I’m currently working on my Portfolio
 
