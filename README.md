@@ -10,9 +10,9 @@
   
 
 ### <h1 align="center">Hi 👋, I'm John Denver Balagwis</h1>
-### <h3 align="center">An aspring software developer from Marinduque</h3>
+### <h3 align="center">An aspiring software developer from Marinduque</h3>
 # 💫 About Me:
-- 🔭 I’m currently working on my Portfolio
+- 🔭 I’m currently working on my... actually, let's keep it a secret for now! 😄
 
 
 - 🌱 I’m currently learning React JS and Next JS
