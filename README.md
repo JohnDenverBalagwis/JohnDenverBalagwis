@@ -1,16 +1,19 @@
+![👋 Hi, my name is John Denver Balagwis](https://static.wixstatic.com/media/53fad0_ce0704caa0174d6aa9b2b8101a62fa77~mv2.gif)
 
+![Profile views](https://komarev.com/ghpvc/?username=JohnDenverBalagwis&label=Profile%20views&color=0e75b6&style=flat)
 
-<div align="left">
-<img src="https://komarev.com/ghpvc/?username=JohnDenverBalagwis&&style=flat-square" align="center" />
-</div>  
-  <br>
-<div align="center">
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmdtaHk5eDc5aTA5YWN5ZXVvY2VhemJtdWM1ZDBtbzBmcmludnYxbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.webp" align="center" style="width: 300px" />
-</div>  
-  
+<div id="toc">
+  <ul align="center" style="list-style: none">
+    <summary>
+      <h1>
+        👋 Hi, my name is John Denver Balagwis
+      </h1>
+    </summary>
+  </ul>
+</div>
 
-### <h1 align="center">Hi 👋, I'm John Denver Balagwis</h1>
-### <h3 align="center">An aspiring software developer from Marinduque</h3>
+ **<h3 align="center">🚀 Aspiring Software Developer from Marinduque</h3>**
+
 # 💫 About Me:
 - 🔭 I’m currently working on my... actually, let's keep it a secret for now! 😄
 
